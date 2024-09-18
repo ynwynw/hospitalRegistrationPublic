@@ -5,7 +5,7 @@ server_code/target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-
+manage_code/
 ### STS ###
 .apt_generated
 .classpath
